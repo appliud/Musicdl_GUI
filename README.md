@@ -239,15 +239,3 @@ pyinstaller --clean --noconfirm --name "MusicDL-GUI" --windowed --onefile --icon
 - [PyInstaller](https://pyinstaller.org/) - 提供打包工具
 - 所有测试和提出建议的用户
 
-## 📞 联系方式
-
-如有问题或建议，欢迎通过以下方式联系：
-
-- 提交 [Issue](../../issues)
-- 发送邮件到: your.email@example.com
-
----
-
-**如果觉得本项目对你有帮助，欢迎给个 ⭐ Star！**
-
-Made with ❤️ by MusicDL-GUI Team
